@@ -23,7 +23,7 @@ namespace BL
 
             using (MailMessage mm = new MailMessage("easyclub100@gmail.com", mail))
             {
-                int i = 5;
+                int i = 4;
                 mm.Body =managerEnter.Password;
                 mm.Subject = "EasyClub";
                 SmtpClient client = new SmtpClient("smtp.gmail.com");
