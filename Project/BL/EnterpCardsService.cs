@@ -25,7 +25,7 @@ namespace BL
             }
         }
         /// <summary>
-        /// מקבלת קוד כרטיס של עסק ומוחקת אותו 
+        ///  fgמקבלת קוד כרטיס של עסק ומוחקת אותו 
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
